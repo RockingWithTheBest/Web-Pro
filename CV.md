@@ -36,8 +36,6 @@ _C#_
     }
 
 ```
-<i> Java
+_Java_
 
-`Scanner sn =  new Scanner(System.In)`
-
-sgvhfdhg
+`Scanner sn =  new Scanner(System.Double)`
