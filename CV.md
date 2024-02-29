@@ -29,13 +29,13 @@ Here is the [link](https://github.com/RockingWithTheBest/CourseWork1) to my cour
 * Kosmanovtov №11 Room 406
 
 ## Belowe is  an example of some Csharp & Java snippet
-_C#_
+* _C#_
 ``` foreach(int r int i)
     {
          Console.WriteLine("Iteration: " + i);
     }
 
 ```
-<i> Java
+* _Java_
 
 `Scanner sn =  new Scanner(System.In)`
