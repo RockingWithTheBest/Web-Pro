@@ -36,6 +36,6 @@ Here is the [link](https://github.com/RockingWithTheBest/CourseWork1) to my cour
     }
 
 ```
-_Java_
+* _Java_
 
 `Scanner sn =  new Scanner(System.In)`
