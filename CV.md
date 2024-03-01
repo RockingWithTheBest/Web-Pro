@@ -21,6 +21,11 @@ I am a young devoted individual who is always passionate and cherishes a challen
 # _Work Experience:_
 Here is the [link](https://github.com/RockingWithTheBest/CourseWork1) to my course work. The program designs an application that deals with the selling and order of electronic devices. 
 
+# _Languages:_
+1. _Languages:_ Proficient in English 
+1. _Other Languages:_  Nyanja ,Bemba
+
+
 -------------------------------------------------------------
 # _Contacts_
 * [sikanweclyde@gmail.com](sikanweclyde@gmail.com)
