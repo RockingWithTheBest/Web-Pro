@@ -36,7 +36,7 @@ Here is the [link](https://github.com/RockingWithTheBest/CourseWork1) to my cour
 # _References_
 1. Mrs Annie Namuuya Sikanwe; anniesikanwe@gmail.com, Cell: +260975881675
 1. Ms Linda Chingeleshi. Cell: +260977755149
-1. Mr John Kombe Mwape:kombejmwape@gmail.com, Cell: +260967300009
+1. Mr John Kombe Mwape:kombejmwape@gmail.com, Cell: +26096730000
 
 ## Belowe is  an example of some Csharp & Java snippet
 * _C#_
