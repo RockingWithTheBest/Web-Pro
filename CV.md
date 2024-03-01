@@ -33,6 +33,11 @@ Here is the [link](https://github.com/RockingWithTheBest/CourseWork1) to my cour
 * [my instagram](https://www.instagram.com/aboyfromafrica?igsh=MXdiMzRhcXQ1YzFqbg%3D%3D&utm_source=qr ) 
 * Kosmanovtov №11 Room 406
 
+# _References_
+1. Mrs Annie Namuuya Sikanwe; anniesikanwe@gmail.com, Cell: +260975881675
+1. Ms Linda Chingeleshi. Cell: +260977755149
+1. Mr John Kombe Mwape:kombejmwape@gmail.com, Cell: +260967300009
+
 ## Belowe is  an example of some Csharp & Java snippet
 * _C#_
 ``` foreach(int r int i)
