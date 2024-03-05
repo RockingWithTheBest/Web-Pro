@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Administrator\Desktop\Образование\4 Semester\Object Oriented Programming\LAB 2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\LAB 2\LAB 2\LAB2\obj\Debug\LAB2.pdb
